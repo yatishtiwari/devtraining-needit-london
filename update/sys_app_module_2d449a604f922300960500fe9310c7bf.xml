@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Create a record in the NeedIt table.</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_needit</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sp_admin,x_58872_needit.needit_user,x_299329_innovate.my_custom_table_user,x_299329_innovate.innovate_user,workflow_publisher,workflow_creator,workflow_admin,web_service_admin,view_changer,user_criteria_admin,user_admin,user,usage_admin,unlimited_createnow,ui_script_admin,ui_policy_admin,ui_page_admin,ui_macro_admin,ui_action_admin,ts_admin,text_search_admin,template_scheduler,template_editor_group,template_editor_global,template_editor,teamdev_user,teamdev_configure_instance,teamdev_code_reviewer,task_editor,tags_admin,survey_reader,survey_admin,state_model_admin,source_control,soap_update,soap_script,soap_query_update,soap_query,soap_ecc,soap_delete,soap_create,soap,snc_read_only,snc_platform_rest_api_access,sn_tourbuilder.tour_user,sn_tourbuilder.tour_admin,sn_pa_diagnostics.pa_diagnostic,sn_devstudio_user_preferences_user,sn_devstudio_studio_preferences_user,sn_chg_soc.change_soc_admin,sn_change_cab.cab_manager,sn_bm_client.benchmark_recommendation_viewer,sn_bm_client.benchmark_data_viewer,sn_bm_client.benchmark_admin,sn_appclient.app_client_user,sn_appclient.app_client_company_installer,sm_admin,sla_manager,sla_admin,service_model_security_admin,service_api_admin,security_dashboard_user,script_include_admin,script_fix_admin,script_debugger,schedule_admin,sam,role_delegator,rest_service,rest_api_explorer,report_user,report_scheduler,report_publisher,report_group,report_global,report_admin,release_admin,rate_limit_admin,push_admin,public,personalize_ui,personalize_styles,personalize_rules,personalize_responses,personalize_list,personalize_form,personalize_dictionary,personalize_control,personalize_choices,personalize,pdb_user,pd_admin,password_reset_service_desk,password_reset_credential_manager,password_reset_admin,pa_viewer,pa_threshold_admin,pa_target_admin,pa_power_user,pa_data_collector,pa_contributor,pa_analyst,pa_admin,odbc,oauth_user,oauth_admin,model_manager,mid_server,metric_admin,megaphone_admin,live_feed_admin,list_updater,knowledge_manager,knowledge_admin,knowledge,itom_admin,itil_admin,itil,inventory_user,inventory_admin,incident_manager,import_transformer,import_set_loader,import_scheduler,import_admin,impersonator,image_admin,hthd_user,hp_publisher_admin,guided_tour_admin,global_tags_creator,gauge_maker,form_admin,flow_operator,flow_designer,financial_mgmt_user,financial_mgmt_admin,filter_group,filter_global,filter_admin,export_set_scheduler,export_set_admin,evt_mgmt_admin,embedded_help_admin,email_client_template_read,email_api_send,ecmdb_admin,dependency_views,delegated_developer,data_policy_admin,data_lookup_admin,dashboard_admin,credential_admin,contract_manager,content_manager,content_admin,connection_admin,cmdb_query_builder,clone_admin,client_script_admin,chat_admin,change_manager,certification_filter_admin,certification_admin,certification,category_manager,catalog_view_masked,catalog_manager,catalog_lookup_manager,catalog_lookup_admin,catalog_item_designer,catalog_editor,catalog_admin,catalog,business_rule_admin,bsm_legacy_admin,bsm_legacy,atf_ws_designer,atf_test_designer,atf_test_admin,assignment_rule_admin,asset,assessment_admin,approver_user,approval_admin,app_service_user,app_service_admin,api_analytics_read,announcement_admin,agent_admin,admin,activity_creator,activity_admin,action_designer</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-07 15:04:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d449a604f922300960500fe9310c7bf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_2d449a604f922300960500fe9310c7bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-07 15:08:10</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
